@@ -87,27 +87,9 @@ Machine Learning model that predicts IQ based on structured input features.
 
 TypeScript project focused on sustainable metal recycling workflows.
 
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nithinsai-03&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinsai-03&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=nithinsai-03&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=nithinsai-03&theme=tokyonight&margin-w=15)
-
----
-
 # 📫 Connect with Me
 
-- 📧 Email: **npthinsai07@gmail.com**
+- 📧 Email: **nnithinsai07@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/nithin-sai-23a84b339
 - 🌐 Portfolio: https://portfolio-rosy-xi-76.vercel.app
 - 🏅 Credly: https://www.credly.com/users/nithin-sai
