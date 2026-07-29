@@ -36,6 +36,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
 
+###GenAI and LLMs
+
 ![RAG](https://img.shields.io/badge/RAG-Systems-purple)
 ![LangChain](https://img.shields.io/badge/LangChain-black?logo=langchain)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blueviolet)
