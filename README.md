@@ -24,7 +24,6 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
@@ -36,6 +35,16 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+
+![RAG](https://img.shields.io/badge/RAG-Systems-purple)
+![LangChain](https://img.shields.io/badge/LangChain-black?logo=langchain)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blueviolet)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple)
+![CrewAI](https://img.shields.io/badge/CrewAI-grey)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-blueviolet)
+![LangGraph](https://img.shields.io/badge/LangGraph-grey)
+![Agentic](https://img.shields.io/badge/Agentic-mediumpurple)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit)
 
 ### AI / ML
 
